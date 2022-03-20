@@ -15,7 +15,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\Acquirer.Client\Acquirer.Client.csproj" />
+		<ProjectReference Include="..\Acquirer.Client\Acquirer.Client.csproj" />
 		<ProjectReference Include="..\Acquirer.DAL\Acquirer.DAL.csproj" />
 	</ItemGroup>
 

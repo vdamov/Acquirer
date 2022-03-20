@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acquirer.Test", "Acquirer.T
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{B4E003F1-9F0D-45B7-A7AC-E7B4E788314A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acquirer.Client", "..\Acquirer.Client\Acquirer.Client.csproj", "{C8C08C1B-FF02-40A2-A860-094501D641E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acquirer.Client", "Acquirer.Client\Acquirer.Client.csproj", "{C8C08C1B-FF02-40A2-A860-094501D641E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

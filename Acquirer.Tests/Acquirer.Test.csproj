@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Acquirer.API\Acquirer.API.csproj" />
     <ProjectReference Include="..\Acquirer.DAL\Acquirer.DAL.csproj" />
+    <ProjectReference Include="..\Acquirer.Client\Acquirer.Client.csproj" />
   </ItemGroup>
 
 </Project>
